@@ -1,1 +1,6 @@
+example/*
+!example/test_make_configuration.m
+!example/test.mat
+
 slprj/*
+
